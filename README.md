@@ -102,8 +102,14 @@ Follow these steps to install Ansible:
 ```bash
 sudo apt-get update
 sudo apt-get install ansible
-
+```
+#### For mac
+```bash
+brew install ansible
+```
 Build a Kubernetes cluster using RKE2 via Ansible
+
+
 =========
 ```
                ,        ,  _______________________________
